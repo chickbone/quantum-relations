@@ -7,7 +7,7 @@
   author: (),
   headtitle: [],
   textfont: "Harano Aji Mincho",
-  headfont: "Yu Gothic",
+  headfont: "Harano Aji Gothic",
   doc,
 ) = {
   //
@@ -86,5 +86,5 @@
     h(0.17em, weak: true)
   }
 
-  #firstindent + #doc
+  firstindent + doc
 }

@@ -10,3 +10,4 @@
   \@
 ]
 
+typst preview
